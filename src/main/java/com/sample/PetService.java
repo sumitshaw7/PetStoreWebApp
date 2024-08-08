@@ -9,7 +9,7 @@ public class PetService {
 
     public List getAvailableBreeds(PetType type){
     	
-    	System.out.println("This is a new line to check Jennkin Integration");
+    	System.out.println("This is a new line to check Jennkin Integration  ,thanks");
 
         List breeds = new ArrayList();
 
